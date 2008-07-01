@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: butuzov
-Donate link:
+Donate link:http://www.wishlistr.com/butuzov
 Tags: attachments
 Requires at least: 2.2
 Tested up to: 2.5.1
