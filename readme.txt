@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: butuzov
+Contributors: Butuzov
 Donate link: http://www.amazon.com/wishlist/2L9W5CCHAX8D0/
 Tags: attachments,performanse,optimization
 Requires at least: 2.2
