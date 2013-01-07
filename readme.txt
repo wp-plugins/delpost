@@ -19,16 +19,6 @@ If you wouldnt use this plugin your database will save dumb datam and be slow...
 1. Upload `delpost` to the  plugins  directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
-
-That's all. Now if you want to test plugin 
-
-1. Create a post 
-1. Upload any image or file
-1. Delete post
-1. Check media tab or uploads directory. 
-1. File not there =). Test Complete.
-
-
 == Frequently Asked Questions ==
 
 = How to check - if plugin functioning? =
