@@ -1,5 +1,5 @@
 === Post Data Delete Advanced ===
-Contributors: butuzov
+Contributors: Butuzov
 Donate link: http://www.amazon.com/wishlist/2L9W5CCHAX8D0/
 Tags: attachments
 Requires at least: 3.0
