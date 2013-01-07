@@ -25,7 +25,7 @@ If you wouldnt use this plugin your database will save dumb datam and be slow...
 
 1. Create a post 
 1. Upload any image or file
-1. Delete post
+1. Delete post (with assigned image)
 1. Check media tab or uploads directory. 
 1. File not there =). Test Complete.
  
