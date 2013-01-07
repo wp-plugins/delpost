@@ -33,10 +33,12 @@ That's all. Now if you want to test plugin
 
 = How to check - if plugin functioning? =
 
-Test
-
-== Screenshots ==
-1. demo
+1. Create a post 
+1. Upload any image or file
+1. Delete post
+1. Check media tab or uploads directory. 
+1. File not there =). Test Complete.
+ 
 
 == Changelog ==
 
